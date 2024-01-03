@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\stefa\\source\\cunitdemo2",
+            "binaryPath": "c:\\Users\\stefa\\source\\cunitdemo2\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
