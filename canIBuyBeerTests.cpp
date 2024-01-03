@@ -62,7 +62,7 @@ TEST_F(CanIBuyBeerTests, when20AndSystemetShouldBeAllowed)
     bool b = canIBuyBeer(location,age);
 
     // ASSERT - förväntan?
-    ASSERT_EQ(b,false);
+    ASSERT_EQ(b,true);
 }
 
 
